@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6226d112-8a59-4a89-8e25-c15bd9f25e80" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hV72Hu6hx98jgPMX4qPHemOiZD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lee jungvin\IdeaProjects\HW1\HW1\problem1" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6226d112-8a59-4a89-8e25-c15bd9f25e80" name="Default Changelist" comment="" />
+      <created>1600084198048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600084198048</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="123" y="163" key="#Notifications" timestamp="1600535896089">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="123" y="163" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1600535896089" />
+    <state x="242" y="0" key="#Project_Structure" timestamp="1600752640351">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="242" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1600752640351" />
+    <state x="75" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600084505398">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="75" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1600084505398" />
+    <state x="371" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1600084358762">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="130" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1600084358762" />
+    <state x="172" y="95" key="FileChooserDialogImpl" timestamp="1600537010513">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="172" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1600537010513" />
+    <state x="519" y="238" key="Github.ShareDialog" timestamp="1600535740188">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="519" y="238" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1600535740188" />
+    <state x="0" y="0" width="914" height="680" key="SettingsEditor" timestamp="1600536617724">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" width="914" height="680" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1600536617724" />
+  </component>
+</project>
